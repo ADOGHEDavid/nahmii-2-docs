@@ -85,3 +85,4 @@ Remix is an online IDE to develop smart contracts
 
 ### Running a Node
 
+Currently, Nahmii is running a trusted node but is open to node decentralization to ensure a fully trustless state.
